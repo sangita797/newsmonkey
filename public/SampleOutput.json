@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [{
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "Rupert Murdoch acknowledged that Fox News hosts endorsed false stolen election claims - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yNy9tZWRpYS9kb21pbmlvbi1mb3gtbmV3cy9pbmRleC5odG1s0gFFaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMi8yNy9tZWRpYS9kb21pbmlvbi1mb3gtbmV3cy9pbmRleC5odG1s?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T07:58:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "Zero-calorie sweetener linked to heart attack, stroke, study finds - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yNy9oZWFsdGgvemVyby1jYWxvcmllLXN3ZWV0ZW5lci1oZWFydC1hdHRhY2stc3Ryb2tlLXdlbGxuZXNzL2luZGV4Lmh0bWzSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T07:37:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "BBC",
+        "title": "Ukraine war: Zelensky says situation in Bakhmut worsening - BBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjQ3OTM5MjPSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY0NzkzOTIzLmFtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T07:10:53Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "BBC",
+        "title": "Israeli-American killed in West Bank as unrest intensifies - BBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1taWRkbGUtZWFzdC02NDc5MzcxNdIBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1taWRkbGUtZWFzdC02NDc5MzcxNS5hbXA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T07:00:05Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Reuters",
+        "title": "Florida Governor DeSantis ends 'corporate kingdom' of Walt Disney World - Reuters",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2Zsb3JpZGEtZ292LWRlc2FudGlzLXNpZ25zLWJpbGwtYXNzZXJ0aW5nLXN0YXRlLW92ZXJzaWdodC1sYW5kLWFyb3VuZC13YWx0LTIwMjMtMDItMjcv0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T06:59:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Engadget",
+        "title": "Xiaomi's 300W demo fully charges a phone in five minutes | Engadget - Engadget",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS94aWFvbWktMzAwdy1jaGFyZ2luZy1maXZlLW1pbnV0ZXMtMDYyMzQxMzQ0Lmh0bWzSAU1odHRwczovL3d3dy5lbmdhZGdldC5jb20vYW1wL3hpYW9taS0zMDB3LWNoYXJnaW5nLWZpdmUtbWludXRlcy0wNjIzNDEzNDQuaHRtbA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T06:25:23Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Reuters",
+        "title": "Exclusive: White House sets deadline for purging TikTok from federal devices - Reuters",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvd2hpdGUtaG91c2UtZ2l2ZXMtYWdlbmNpZXMtMzAtZGF5cy1pbXBvc2UtZmVkZXJhbC1kZXZpY2UtdGlrdG9rLWJhbi0yMDIzLTAyLTI3L9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T06:24:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "The Washington Post",
+        "title": "LeBron James will miss chunk of Lakers' playoff push with foot injury - The Washington Post",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvMjAyMy8wMi8yNy9sZWJyb24tamFtZXMtZm9vdC1pbmp1cnkv0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T05:11:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CNBC",
+        "title": "Target will report earnings before the bell — Here's what to expect - CNBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMjgvdGFyZ2V0LXRndC1lYXJuaW5ncy1xNC0yMDIyLmh0bWzSAURodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMi8yOC90YXJnZXQtdGd0LWVhcm5pbmdzLXE0LTIwMjIuaHRtbA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T05:01:01Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Spaceflight Now",
+        "title": "SpaceX launches first batch of second-generation Starlink internet satellites – Spaceflight Now - Spaceflight Now",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vc3BhY2VmbGlnaHRub3cuY29tLzIwMjMvMDIvMjcvZmFsY29uLTktc3RhcmxpbmstNi0xLWxpdmUtY292ZXJhZ2Uv0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T04:41:15Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "After 959 days, this city is no longer imposing $1,000 fines for not wearing a mask - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yNy9hc2lhL2hvbmcta29uZy1tYXNrLW1hbmRhdGUtbGlmdGVkLWludGwtaG5rL2luZGV4Lmh0bWzSAVlodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAyLzI3L2FzaWEvaG9uZy1rb25nLW1hc2stbWFuZGF0ZS1saWZ0ZWQtaW50bC1obmsvaW5kZXguaHRtbA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T03:22:30Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "Ransomware attack on US Marshals Service affects 'law enforcement sensitive information' - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yNy9wb2xpdGljcy91cy1tYXJzaGFscy1zZXJ2aWNlLXJhbnNvbWV3YXJlLWF0dGFjay9pbmRleC5odG1s0gFdaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMi8yNy9wb2xpdGljcy91cy1tYXJzaGFscy1zZXJ2aWNlLXJhbnNvbWV3YXJlLWF0dGFjay9pbmRleC5odG1s?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T02:23:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Entertainment Tonight",
+        "title": "Madonna Mourns Her Late Brother Anthony Ciccone in Heartfelt Post About Introductions - Entertainment Tonight",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9tYWRvbm5hLW1vdXJucy1oZXItbGF0ZS1icm90aGVyLWFudGhvbnktY2ljY29uZS1pbi1oZWFydGZlbHQtcG9zdC1hYm91dC1pbnRyb2R1Y3Rpb25zLTE5OTkzNdIBeWh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9tYWRvbm5hLW1vdXJucy1oZXItbGF0ZS1icm90aGVyLWFudGhvbnktY2ljY29uZS1pbi1oZWFydGZlbHQtcG9zdC1hYm91dC1pbnRyb2R1Y3Rpb25zLTE5OTkzNT9hbXA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T01:47:20Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Yahoo Sports",
+        "title": "The SEC can't have it both ways when it comes to Brandon Miller - Yahoo Sports",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS90aGUtc2VjLWNhbnQtaGF2ZS1pdC1ib3RoLXdheXMtd2hlbi1pdC1jb21lcy10by1icmFuZG9uLW1pbGxlci0wMTIxMTEzODkuaHRtbNIBbmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL3RoZS1zZWMtY2FudC1oYXZlLWl0LWJvdGgtd2F5cy13aGVuLWl0LWNvbWVzLXRvLWJyYW5kb24tbWlsbGVyLTAxMjExMTM4OS5odG1s?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T01:21:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "The Hill",
+        "title": "Twitter employee who slept on floor laid off in latest Musk cuts - The Hill",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L3RlY2hub2xvZ3kvMzg3NjUwNS10d2l0dGVyLWVtcGxveWVlLXdoby1zbGVwdC1vbi1mbG9vci1sYWlkLW9mZi1pbi1sYXRlc3QtbXVzay1jdXRzL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T01:16:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "The Hill",
+        "title": "Fresh intel raises questions over COVID origins - The Hill",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdGhlaGlsbC5jb20vbmV3c2xldHRlcnMvZGVmZW5zZS1uYXRpb25hbC1zZWN1cml0eS8zODc2NDkzLWZyZXNoLWludGVsLXJhaXNlcy1xdWVzdGlvbnMtb3Zlci1jb3ZpZC1vcmlnaW5zL9IBdmh0dHBzOi8vdGhlaGlsbC5jb20vbmV3c2xldHRlcnMvZGVmZW5zZS1uYXRpb25hbC1zZWN1cml0eS8zODc2NDkzLWZyZXNoLWludGVsLXJhaXNlcy1xdWVzdGlvbnMtb3Zlci1jb3ZpZC1vcmlnaW5zL2FtcC8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T00:51:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CBS News",
+        "title": "Jurors in Alex Murdaugh murder trial to visit South Carolina home where his wife and son were killed - CBS News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYWxleC1tdXJkYXVnaC1tdXJkZXItdHJpYWwtanVyb3JzLXdpbGwtdmlzaXQtY29sbGV0b24tY291bnR5LW1vc2VsbGUtY3JpbWUtc2NlbmUv0gFyaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvYWxleC1tdXJkYXVnaC1tdXJkZXItdHJpYWwtanVyb3JzLXdpbGwtdmlzaXQtY29sbGV0b24tY291bnR5LW1vc2VsbGUtY3JpbWUtc2NlbmUv?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T00:44:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "PHL17 Philadelphia ",
+        "title": "CDC warns of drug-resistant stomach bug amid rise in cases - PHL17 Philadelphia ",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vcGhsMTcuY29tL25tdy9jZGMtd2FybnMtb2YtZHJ1Zy1yZXNpc3RhbnQtc3RvbWFjaC1idWctYW1pZC1yaXNlLWluLWNhc2VzL9IBVWh0dHBzOi8vcGhsMTcuY29tL25tdy9jZGMtd2FybnMtb2YtZHJ1Zy1yZXNpc3RhbnQtc3RvbWFjaC1idWctYW1pZC1yaXNlLWluLWNhc2VzL2FtcC8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T00:27:20Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "MMA Fighting",
+        "title": "Chael Sonnen: Jake Paul loss ‘just helps to add the validity’ to career - MMA Fighting",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1tYWZpZ2h0aW5nLmNvbS8yMDIzLzIvMjcvMjM2MTc2NDMvY2hhZWwtc29ubmVuLWpha2UtcGF1bC1sb3NzLWp1c3QtaGVscHMtdG8tYWRkLXRoZS12YWxpZGl0eS10by1jYXJlZXLSAYABaHR0cHM6Ly93d3cubW1hZmlnaHRpbmcuY29tL3BsYXRmb3JtL2FtcC8yMDIzLzIvMjcvMjM2MTc2NDMvY2hhZWwtc29ubmVuLWpha2UtcGF1bC1sb3NzLWp1c3QtaGVscHMtdG8tYWRkLXRoZS12YWxpZGl0eS10by1jYXJlZXI?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T00:00:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CNET",
+        "title": "'Ted Lasso' on Apple TV Plus: It's Ted vs. Nate in Season 3 Trailer - CNET",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNuZXQuY29tL2N1bHR1cmUvZW50ZXJ0YWlubWVudC90ZWQtbGFzc28tb24tYXBwbGUtdHYtcGx1cy1pdHMtdGVkLXZzLW5hdGUtaW4tc2Vhc29uLTMtdHJhaWxlci_SAWRodHRwczovL3d3dy5jbmV0LmNvbS9nb29nbGUtYW1wL25ld3MvdGVkLWxhc3NvLW9uLWFwcGxlLXR2LXBsdXMtaXRzLXRlZC12cy1uYXRlLWluLXNlYXNvbi0zLXRyYWlsZXIv?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-27T23:48:22Z",
+        "content": null
+    }]
+}
